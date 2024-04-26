@@ -1,2 +1,2 @@
-# UnrealEngine_Plugins_HttpAes
- HttpAes plugin for Http/Https request data encryption and decryption
+1. 编辑-插件-已安装-http选项，然后打勾启用HttpAes，按照提示重启编辑器即可。
+
