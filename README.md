@@ -7,9 +7,13 @@
 3.CPP使用方法
 
   3.1. 在.Build.cs文件
+
        PublicDependencyModuleNames.AddRange(new string[] { "HttpAes" });
+
        或者
+
        PrivateDependencyModuleNames.AddRange(new string[] { "HttpAes" });
+       
 
   3.2. #include "HttpAesUtil.h"
 
